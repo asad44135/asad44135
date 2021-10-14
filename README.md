@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ASAD BASTAWALA</h1>
+<h1 align="center">Hello👀 , I am ASAD BASTAWALA</h1>
 <h3 align="center"> FULL STACK WEB DEVELOPER</h3>
 
 - 🎓 I'm currently pursuing MscIT at Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar.
